@@ -1,0 +1,20 @@
+<div class="assign-2-shape-1">
+padding: 400px 400px;
+background.image: url("newfolder2/css/css-assignment-5-8.png");
+background.repeat: no repeat;
+</div>
+<div class="assign-2-shape-2">
+padding: 400px 400px;
+background.image: url("newfolder2/css/css-assignment-5-8.png");
+background.repeat: repeat-y;
+</div>
+<div class="assign-2-shape-3">
+padding: 400px 400px;
+background.image: url("newfolder2/css/css-assignment-5-8.png");
+background.repeat: repeat-x;
+</div>
+<div class="assign-2-shape-4">
+padding: 400px 400px;
+background.image: url("newfolder2/css/css-assignment-5-8.png");
+background.repeat: repeat;
+</div>
