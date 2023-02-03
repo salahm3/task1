@@ -1,0 +1,29 @@
+<div class="assign-2-shape-1">
+
+  background-color: #DDD;
+  padding: 20%
+  margin: auto;
+  border-color: red;
+  border-style: solid;
+  border: 5px solid red;
+
+<div class="assign-2-shape-2">
+
+  background-color: #DDD;
+  padding:20%
+  margin: auto;
+  border-color: blue green;
+  border-style: solid;
+  border: 5px solid blue green;
+
+</div>
+<div class="assign-2-shape-3">
+
+  background-color: #DDD;
+  padding:20%
+  margin: auto;
+  border-color: red green blue yellow;
+  border-style: dashed;
+  border: 5px dashed red green blue green;
+
+</div>
