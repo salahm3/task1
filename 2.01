@@ -1,0 +1,12 @@
+div {
+  padding : 500px;
+  margin : 20px;
+  width : 70%;
+  margin-left : 15%;
+  background-color: blueviolet; /* Color Name */
+  background-color: rgb(138 43 226 / 100%); /* red, green, blue , Alpha Channel */
+  background-color: #8a2be2; /* Color Hex Code */
+  background-image: url("../imgs/learn-programming.png");
+  background-repeat: rgb(138 43 226 / 50%); /* red, green, blue , Alpha Channel */ ;
+  background-repeat: rgb(138 43 226 / 10%); /* red, green, blue , Alpha Channel */ ;
+}
