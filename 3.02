@@ -1,0 +1,30 @@
+<div class="first">
+padding: 400px ;
+div {
+  background-color: grey;
+  margin: 10px 0;
+}
+.first {
+  visibility: visable;
+}
+</div>
+<div class="second">
+padding: 400px ;
+div {
+  background-color: grey;
+  margin: 10px 0;
+}
+.first {
+  visibility: hidden;
+}
+</div>
+<div class="third">
+padding: 400px ;
+div {
+  background-color: grey;
+  margin: 10px 0;
+}
+.first {
+  visibility: visable;
+}
+</div>
