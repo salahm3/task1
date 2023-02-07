@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@800&family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@800&family=Jomhuria&family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+<body>
+<div class="1">Elzero Web School</div>
+<div class="2">Elzero Web School</div>
+<div class="3">Elzero Web School</div>
+</body>
+.1 {
+font-family: 'Open Sans', sans-serif;
+}
+.2 {
+font-family: 'Cairo', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.3 {
+font-family: 'Cairo', sans-serif;
+font-family: 'Jomhuria', cursive;
+font-family: 'Open Sans', sans-serif;
+}
+1;
+2;
+3 {
+color: black;
+background-color:white;
+}
