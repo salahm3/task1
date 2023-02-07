@@ -1,0 +1,42 @@
+<div class="1">
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+  Ea itaque fugit vitae incidunt quis dolores? Id alias
+  eveniet sequi perspiciatis iusto impedit,
+  accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+</div>
+.1 {
+color : black;
+background-color: grey;
+width: 400px;
+margin-left: 10%;
+white-space: normal;
+}
+<div class="2">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+  Ea itaque fugit vitae incidunt quis dolores? Id alias
+  eveniet sequi perspiciatis iusto impedit,
+  accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+</div>
+.2 {
+color : black;
+background-color: grey;
+width: 400px;
+margin-left: 10%;
+white-space: nowrap;
+overflow: hidden;
+}
+<div class="3">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+  Ea itaque fugit vitae incidunt quis dolores? Id alias
+  eveniet sequi perspiciatis iusto impedit,
+  accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+</div>
+.3 {
+color : black;
+background-color: grey;
+width: 400px;
+margin-left: 10%;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}
