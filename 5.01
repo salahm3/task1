@@ -1,0 +1,7 @@
+<div>ElZero Web School</div>
+.div {
+background-color: black;
+text-shadow: 1px 1px 0px orange;
+text-shadow: 2px 2px 0px blue;
+text-shadow: 3px 3px 0px purple;
+}
