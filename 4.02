@@ -1,0 +1,29 @@
+<div class="Title">Title One</div>
+.Title-One {
+color: white ;
+background-color: red;
+display: block;
+max-width: 400px;
+}
+<div class="Title">Title Two With More Words</div>
+.Title Two With More Words {
+color: white ;
+background-color: red;
+display: block;
+max-width: 400px;
+}
+<div class="Title">Title Three With Many Many Many Words</div>
+.Title Three With Many Many Many Words {
+color: white ;
+background-color: red; 
+display: block;
+max-width: 400px;
+}
+<div class="Title">Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words</div>
+.Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words {
+color: white ;
+background-color: red; 
+display: block
+max-width: 400px;
+overflow: hidden;
+}
