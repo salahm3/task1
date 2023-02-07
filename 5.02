@@ -1,0 +1,15 @@
+<p class="one">elzero Web school</p>
+.one {
+background-color: white;
+text-transform: uppercase;
+}
+<p class="two">elzero Web school</p>
+.two {
+background-color: white;
+text-transform: capitalize;
+}
+<p class="three">elzero Web school</p>
+.three {
+background-color: white;
+text-transform: lowercase;
+}
