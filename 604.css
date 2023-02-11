@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+div {
+    font-size:20px;
+}
+.first {
+    font-size:2.5em;
+    text-align:center;
+    font-weight:500;
+    font-family:arial,helvetica,sans-serif;
+}
+ .second {
+     font-size:2em;
+     text-align:center;
+     font-weight:500;
+    font-family:arial,helvetica,sans-serif;
+ }
+ .third {
+     font-size:1.5em;
+     text-align:center;
+     font-weight:500;
+    font-family:arial,helvetica,sans-serif;
+ }
+</style>
+</head>
+<body>
+<div class="first">Elzero Web School</div>
+<div class="second">Elzero Web School</div>
+<div class="third">Elzero Web School</div>
+
+</body>
+</html>
