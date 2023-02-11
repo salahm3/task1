@@ -1,15 +1,42 @@
-<p class="one">elzero Web school</p>
-.one {
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
+p.one {
 background-color: white;
+margin:20px;
+padding:20px;
 text-transform: uppercase;
+font-size: 40px;
+font-family: arial,helvetica,sans-serif;
+text-align: center;
 }
-<p class="two">elzero Web school</p>
-.two {
+p.two {
 background-color: white;
+margin:20px;
+padding:20px;
 text-transform: capitalize;
+font-size: 38px;
+font-family: arial,helvetica,sans-serif;
+text-align: center;
 }
-<p class="three">elzero Web school</p>
-.three {
+p.three {
 background-color: white;
+margin:20px;
+padding:20px;
 text-transform: lowercase;
+font-size: 35px;
+font-family: arial,helvetica,sans-serif;
+text-align: center;
 }
+</style>
+</head>
+<body>
+<p class="one">elzero Web school</p>
+<p class="two">elzero Web school</p>
+<p class="three">elzero Web school</p>
+</body>
+
+</html>
