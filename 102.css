@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <!-- External Css Style -->
-<link rel="stylesheet" href="css/file.css" />
+
 
 <!-- Internal Css Style -->
 <head>
+<link rel="stylesheet" href="css/file.css" />
 <style>
+
 p {
   color: red;
 }
