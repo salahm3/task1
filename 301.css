@@ -30,7 +30,9 @@
     text-align: center;
     width: 200px;
     height: 100px;
-    border: 5px solid green  ;
+    border-style: solid ;
+    border-width: 5px;
+    border-color: green blue green blue;
     outline: 5px solid;
     font-family:arial,helvetica,sans-serif;
     font-size: 30px;
@@ -44,7 +46,9 @@
     text-align: center;
     width: 200px;
     height: 100px;
-    border: 5px dashed yellow;
+    border-style:  dashed;
+    border-width: 5px;
+    border-color: yellow red green blue;
     outline: 5px solid;
     font-family:arial,helvetica,sans-serif;
     font-size: 30px;
