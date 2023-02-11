@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
 /* valid */
 ._user-name {
 }
@@ -29,3 +35,20 @@
 /* valid */
 .u {
 }
+
+</style>
+</head>
+<body>
+ <div>valid</div>
+  <div>valid</div>
+ <div>valid</div>
+ <div>not valid</div>
+ <div>not valid</div>
+ <div>not valid</div>
+ <div>valid</div>
+ <div>valid</div>
+
+
+</body>
+
+</html>
