@@ -10,6 +10,7 @@
 .assignment1 {
     background-color: #eee;
     margin: 10px;
+    padding: 10px;
     display: inline-block;
     text-align: center;
     width: 200px;
@@ -24,6 +25,8 @@
 .assignment2 {
     background-color: #eee;
     display: inline-block;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
     width: 200px;
     height: 100px;
@@ -36,6 +39,8 @@
 .assignment3 {
     background-color: #eee;
     display: inline-block;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
     width: 200px;
     height: 100px;
