@@ -1,29 +1,61 @@
-<div class="Title">Title One</div>
-.Title-One {
-color: white ;
-background-color: red;
-display: block;
-max-width: 400px;
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
+div.Title1 {
+    margin: 20px;
+    padding: 20px;
+    width: 120px;
+    color: white ;
+    font-size: 30px;
+   background-color: firebrick;
+   display: block;
 }
-<div class="Title">Title Two With More Words</div>
-.Title Two With More Words {
-color: white ;
-background-color: red;
-display: block;
-max-width: 400px;
+div.Title2  {
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    color: white ;
+    font-size: 30px;
+   color: white ;
+   background-color: firebrick;
+   display: block;
 }
-<div class="Title">Title Three With Many Many Many Words</div>
-.Title Three With Many Many Many Words {
-color: white ;
-background-color: red; 
-display: block;
-max-width: 400px;
+div.Title3 {
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 50px;
+    text-align: left;
+    color: white ;
+    font-size: 30px;
+   color: white ;
+   background-color: firebrick;
+   display: block;
 }
-<div class="Title">Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words</div>
-.Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words {
-color: white ;
-background-color: red; 
-display: block
-max-width: 400px;
-overflow: hidden;
+div.Title4 {
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+    height: 90px;
+    color: white ;
+    font-size: 30px;
+   color: white ;
+   background-color: firebrick;
+   display: block;
+   overflow: hidden;
 }
+
+</style>
+</head>
+<body>
+<div class="Title1">Title One</div>
+<div class="Title2">Title Two With More Words</div>
+<div class="Title3">Title Three With Many Many Many Words</div>
+<div class="Title4">Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words Title Three With Many Many Many Words</div>
+
+</body>
+
+</html>
