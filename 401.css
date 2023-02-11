@@ -1,22 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
+parent.child.title {
+    color: red;
+}
+div.title {
+    color: green;
+}
+p {
+    color: green;
+}
+parent.title {
+    color: blue;
+}
+p,
+div.title {
+    color: green;
+}
+</style>
+</head>
+<body>
 <div class="parent">
   <div class="child">This Is Child <span class="title">Title</span></div>
- .Title {
-  color : red
-  }
   <span class="title">Child Title</span>
- .Child-Title {
-  color : blue
-  }
   <p>Paragraph Content</p>
- .paragraph-content {
-  color : green
-  }
 </div>
 <div class="title">Section Title</div>
-.Section-Title {
-color : green
-}
-Paragraph-content,
-Section-Title {
-color : green
-}
+
+</body>
+
+</html>
