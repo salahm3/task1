@@ -24,9 +24,9 @@
 }
 .assignment2 {
     background-color: #eee;
-    display: inline-block;
     margin: 10px;
     padding: 10px;
+    display: inline-block;
     text-align: center;
     width: 200px;
     height: 100px;
