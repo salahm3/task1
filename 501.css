@@ -1,7 +1,23 @@
-<div>ElZero Web School</div>
-.div {
-background-color: black;
-text-shadow: 1px 1px 0px orange;
-text-shadow: 2px 2px 0px blue;
-text-shadow: 3px 3px 0px purple;
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
+div {
+background-color: white;
+margin: 20px;
+padding: 20px;
+font-size: 50px;
+font-weight: 600;
+font-family: arial,helvetica,sans-serif;
+text-shadow: 2px 2px 0px tomato,4px 4px 0px lightskyblue,7px 7px 0px purple ;
 }
+
+</style>
+</head>
+<body>
+<div>ElZero Web School</div>
+</body>
+
+</html>
