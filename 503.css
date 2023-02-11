@@ -1,42 +1,68 @@
-<div class="1">
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
+div.first {
+color : black;
+margin:20px;
+padding:40px;
+background-color: #eee;
+font-size:28px;
+line-height:28px;
+width: 400px;
+height: 200px;
+white-space: normal;
+}
+div.second {
+   color : black;
+margin:20px;
+padding:40px;
+background-color: #eee;
+font-size:28px;
+line-height:28px;
+text-align:;
+width: 400px;
+height: 50px;
+white-space: nowrap; 
+overflow:hidden;
+}
+div.third {
+   color : black;
+margin:20px;
+padding:40px;
+background-color: #eee;
+font-size:28px;
+line-height:28px;
+width: 400px;
+height: 50px;
+white-space: normal; 
+white-space: nowrap; 
+overflow:hidden;
+text-overflow:ellipsis;
+}
+</style>
+</head>
+<body>
+<div class="first">
   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
   Ea itaque fugit vitae incidunt quis dolores? Id alias
   eveniet sequi perspiciatis iusto impedit,
   accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
 </div>
-.1 {
-color : black;
-background-color: grey;
-width: 400px;
-margin-left: 10%;
-white-space: normal;
-}
-<div class="2">
-Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+<div class="second">
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
   Ea itaque fugit vitae incidunt quis dolores? Id alias
   eveniet sequi perspiciatis iusto impedit,
   accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
 </div>
-.2 {
-color : black;
-background-color: grey;
-width: 400px;
-margin-left: 10%;
-white-space: nowrap;
-overflow: hidden;
-}
-<div class="3">
-Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+<div class="third">
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
   Ea itaque fugit vitae incidunt quis dolores? Id alias
   eveniet sequi perspiciatis iusto impedit,
   accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
 </div>
-.3 {
-color : black;
-background-color: grey;
-width: 400px;
-margin-left: 10%;
-white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
-}
+</body>
+
+</html>
