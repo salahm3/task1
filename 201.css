@@ -1,12 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   
+<style>
 div {
-  padding : 500px;
+  padding:20px;
   margin : 20px;
-  width : 70%;
+  width : 500px;
   margin-left : 15%;
   background-color: blueviolet; /* Color Name */
   background-color: rgb(138 43 226 / 100%); /* red, green, blue , Alpha Channel */
   background-color: #8a2be2; /* Color Hex Code */
-  background-image: url("../imgs/learn-programming.png");
   background-repeat: rgb(138 43 226 / 50%); /* red, green, blue , Alpha Channel */ ;
   background-repeat: rgb(138 43 226 / 10%); /* red, green, blue , Alpha Channel */ ;
+ 
 }
+
+div.assign-1-shape-2 {
+    opacity:0.4;
+}
+div.assign-1-shape-3 {
+    opacity: 0.1;
+}
+Div {
+     color: white;
+     font-size: 18px;
+     font-family: Arial,helvetica,sans-serif;
+}
+
+</style>
+</head>
+<body>
+ <div class="assign-1-shape-1">Normal Div</div>
+<div class="assign-1-shape-2">Normal Div</div>
+<div class="assign-1-shape-3">Normal Div</div>
+
+</body>
+
+</html>
