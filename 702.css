@@ -1,32 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+div {
+  margin: 20px auto;
+  width: 300px;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 20px;
+  background-color: darkgrey; 
+  color: black;
+}
+ .normal {
+     font-size:2em;
+     font-family:arial,helvetica,sans-serif;
+ }
+ .one {
+     font-size:2em;
+     font-family:arial,helvetica,sans-serif;
+     background-color:snow;
+ }
+ .two {
+     font-size:2em;
+     font-family:arial,helvetica,sans-serif;
+     opacity:0.1;
+ }
+</style>
+</head>
+<body>
 <div class="normal">Normal</div>
 <div class="one">One</div>
 <div class="two">Two</div>
-div.normal {
-  margin: 20px auto;
-  width: 300px;
-  font-weight: bold;
-  font-size: 1rem;
-  padding: 20px;
-  background-color: grey;
-  color: black;
-}
-div.one {
-  margin: 20px auto;
-  width: 300px;
-  font-weight: bold;
-  font-size: 1rem;
-  padding: 20px;
-  background-color: white;
-  color: black;
-  opacity: 0.1;
-}
-div.two {
-   margin: 20px auto;
-  width: 300px;
-  font-weight: bold;
-  font-size: 1rem;
-  padding: 20px;
-  background-color: grey;
-  color: black;
-  opacity: 0.1;
-}
+
+</body>
+</html>
